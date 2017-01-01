@@ -4,3 +4,4 @@ git has a mutable index called stage.
 git track changes of files
 creating a new branch is quick and simple.
 add merge add merge2
+add /usr/bin/env
